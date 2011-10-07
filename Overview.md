@@ -22,8 +22,4 @@
 * Student led instruction
 	* Two options
 		* Open the floor to questions?
-		* Student presentations - students demonstrate something they discovered on their own time between the classe.
-
-
-
-
+		* Student presentations - students demonstrate something they discovered on their own time between the classes.
