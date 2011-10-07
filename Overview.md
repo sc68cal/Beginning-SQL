@@ -1,19 +1,17 @@
 ### Part 1: Concepts
 * Introduce Relational Algebra (for the layman)
 	* Venn Diagrams
-	* Short digression into set theory and set notation
+	* Painless introduction to set theory and set notation
 * Introduce the Relational Model
 	* Leverage concepts introduced in relationl algebra 
 	* Introduce SQL concepts
 		* Tables
 		* Rows
 		* Queries
-* Introduction to SQLite
-	* Use [SQliteBrowser](http://sqlitebrowser.sourceforge.net/) ?
-	* Worst case, introduce sqlite commandline tool.
+* Introduce a database system 
 
 ### Part 2: Hands on
-* Give students a copy of a trivial database application
+* Give students a copy of a trivial database (tables+data) 
 * ???
 * PROFIT!
 
