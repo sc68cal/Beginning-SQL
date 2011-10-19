@@ -1,4 +1,19 @@
-# Sequential Query Language 
+# Structured Query Language 
+
+SQL uses relational algebra concepts to organize and store data.
+
+## SQL Concepts
+
+A SQL database is comprised of _tables_ that contain _columns_ and _rows_.
+
+Each column in a table has a [specific data type](http://www.sqlite.org/datatype3.html) that is used to store data. SQLite supports a number of data types including integers, text, dates, and booleans. 
+
+A row of data, similar to a row in popular spreadsheet programs, encapsulates a single object in the table. Put simply, in the example database you are provided with, a single
+row in the posts table represents a single blog post.
+
+## The NULL value
+
+
 
 ## Query Language
 
