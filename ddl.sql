@@ -43,3 +43,12 @@ INSERT INTO 'posts' (user_id,post_text) VALUES (5, "Well, the way they make show
 INSERT INTO 'posts' (user_id, post_text) VALUES (2, "Nulla ac dignissim erat. Suspendisse ut ipsum at quam tincidunt feugiat ac vel sapien. Praesent vestibulum convallis orci et sodales. Sed gravida facilisis congue. Donec nisi odio, gravida ut mattis a, scelerisque non neque. Donec viverra ullamcorper lobortis. Etiam ligula sapien, volutpat in gravida sit amet, auctor non ipsum. Nulla in fringilla odio. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; ");
 
 INSERT INTO 'posts' (user_id, post_text) VALUES (3, "Fusce a tellus diam, ullamcorper convallis justo. In imperdiet lacinia lectus vitae placerat. Mauris ut sem arcu. Morbi mattis iaculis augue. Phasellus diam nunc, placerat vel iaculis ut, elementum quis est. Mauris volutpat turpis eu felis viverra fermentum. Vestibulum eu mauris sem, et tempus odio. Nulla diam est, tempor vitae sodales scelerisque, vehicula ac leo. Vivamus vitae neque sit amet erat viverra tristique vel vitae mauris. Duis vel nulla nunc, eu gravida dui. Donec sapien neque, fermentum nec interdum vel, aliquet non mi. Morbi nulla justo, placerat et gravida a, ullamcorper a enim. Pellentesque congue dolor id nisl rhoncus id commodo nunc placerat. Donec eros urna, ultricies sed hendrerit eu, molestie nec neque. Nam venenatis, orci sit amet feugiat pulvinar, leo est varius purus, vitae consectetur ante arcu ac est. ");
+
+INSERT INTO 'comments' (post_id, user_id, comment_text) VALUES (1,3, "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tristique consectetur justo, vel vestibulum.");
+
+INSERT INTO 'comments' (post_id, user_id, comment_text) VALUES (1,4, "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed viverra nunc a tellus adipiscing.");
+
+INSERT INTO 'comments' (post_id, user_id, comment_text) VALUES (3,3, "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tristique consectetur justo, vel vestibulum.");
+
+INSERT INTO 'comments' (post_id, user_id, comment_text) VALUES (4,4, "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed viverra nunc a tellus adipiscing.");
+
