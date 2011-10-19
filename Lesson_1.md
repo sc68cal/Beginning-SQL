@@ -27,7 +27,7 @@ Formal rules and expressions used to define sets.
 
 Example: Adding a blog post by a user that doesn't exist.
 
-	sqlite> INSERT INTO posts (user_id,post_text) VALUES (2, "Hello, World");
+	sqlite> INSERT INTO posts (user_id,post_text) VALUES (230, "Hello, World");
 	Error: foreign key constraint failed
 
 ###Sources:
