@@ -1,2 +1,2 @@
-* Pick a database system to use
-* Create database file for students to practice on
+* ~~Pick a database system to use~~
+* ~~Create database file for students to practice on~~
