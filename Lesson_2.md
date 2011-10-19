@@ -13,7 +13,14 @@ row in the posts table represents a single blog post.
 
 ## The NULL value
 
+Part of the requirements for a true relational database include supporting
+a representation for "missing and inapplicable data"
 
+As such, the NULL value is used to fulfil this requirement.
+
+In our example database, consider a query that selects all blog posts
+written by a user, who has never written a blog post. This query will return a
+NULL value.
 
 ## Query Language
 
@@ -38,3 +45,5 @@ Example: Adding a blog post by a user that doesn't exist.
 [SQLite Foreign Key Support](http://www.sqlite.org/foreignkeys.html#fk_enable)
 
 [DDL & DML] (http://www.tomjewett.com/dbdesign/dbdesign.php?page=ddldml.php)
+
+[Zero: The Biography of a Dangerous Idea] (http://www.amazon.com/Zero-Biography-Dangerous-Charles-Seife/dp/0140296476)
