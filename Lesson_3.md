@@ -5,7 +5,7 @@ data can be linked between tables and a single update to a row will
 be reflected in all the related data.
 
 For example: Consider our example database that contains users, posts, and
-comments. If a user updates their name in the users database, the update is
+comments. If a user updates their name in the users table, the update is
 reflected across all the blog posts and comments, since those tables
 reference the users table instead of having a copy of the user's name 
 and forcing each row in the tables to be modified.
