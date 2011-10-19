@@ -1,3 +1,5 @@
+PRAGMA foreign_keys = ON;
+
 INSERT INTO 'users' (name) VALUES ('Sean');
 INSERT INTO 'users' (name) VALUES ('Michael');
 INSERT INTO 'users' (name) VALUES ('Jeff');
