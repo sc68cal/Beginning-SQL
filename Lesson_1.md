@@ -10,16 +10,22 @@ illustrate the relationships between two or more sets.
 two sets that contain an intersection. 
 
 ##Operations
-* Union
-* Intersection
-* Set Difference
-* Symmetric Difference
-* Cartesian Product
-* Power Set
+* [Union](http://en.wikipedia.org/wiki/Union_%28set_theory%29)
+* [Intersection](http://en.wikipedia.org/wiki/Intersection_%28set_theory%29)
+* [Set Difference](http://en.wikipedia.org/wiki/Difference_%28set_theory%29#Relative_complement)
+* [Symmetric Difference](http://en.wikipedia.org/wiki/Symmetric_difference)
+* [Cartesian Product](http://en.wikipedia.org/wiki/Cartesian_product)
+* [Power Set](http://en.wikipedia.org/wiki/Power_set)
 
-##Set Builder Notation
+Caresian products and power sets are the most difficult concepts to master,
+so don't feel bad if you don't fully understand them. For now, we'll focus our
+energy on learning and discussing simpler operations such as unions, intersections, 
+and differences since those will be the operations with equivalents in SQL.
 
-Formal rules and expressions used to define sets.
+In addition to Venn diagrams, there is also a more compact and formal notation
+that describes the composition of sets, called Set Notation. Again, this is a 
+more advanced concept that is included to demonstrate the relationship between
+abstract math and the basis for SQL.
 
 ###Sources:
 [Relational Algebra lecture](http://databasteknik.se/webbkursen/relalg-lecture/index.html)
