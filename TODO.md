@@ -4,4 +4,4 @@
 * Introduce database normalization concepts (1st, 2nd, 3rd NF)
 * Do an example, starting for a flat denormalized CSV file, break up
 into tables and normalize.
-* Merge work with [LSTHW](http://sql.learncodethehardway.org/book/)
+* Merge work with [LSTHW] project(http://sql.learncodethehardway.org/)
