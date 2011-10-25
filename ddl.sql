@@ -5,7 +5,7 @@ CREATE TABLE 'users' (
 
 CREATE TABLE 'posts' (
 	id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
-	user_id INTEGER
+	user_id INTEGER,
 	title varchar(255),
 	posted date,
 	published boolean,
