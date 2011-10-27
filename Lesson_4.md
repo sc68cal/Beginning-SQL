@@ -9,3 +9,9 @@ If you download the zipfile, extract it and example the files with
 database files that can be opened with the sqlite commandline tool,
 while files with the .sql extension are the DDL and DML commands
 used to create the .sqlite files.
+
+### SQLite GUI tools
+
+The [SQLite Data Browser](http://sourceforge.net/projects/sqlitebrowser/) 
+is a good GUI front end to SQLite databases.
+
